@@ -21,7 +21,7 @@ Here you can find our repositories with the following topics:
 - 🗂️ LaTeX source code of our journals — from templates to all published issues.
 - 📦 Packages and libraries developed within the association or in collaboration with partner academic groups and associations.
 - 🧠 Notes and materials used in any of the association’s programs and events.
-- 🧩 Research-based, educational, and promotional (with no similarity to marketing jurgen=]) projects in collaboration with students and faculty members.
+- 🧩 Research-based, educational, and promotional (with no similarity to marketing jargon=]) projects in collaboration with students and faculty members.
 
 
 ## 👥 Core Members
